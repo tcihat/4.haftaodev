@@ -1,16 +1,14 @@
 package Hafta_Dort_Odev;
 
 public class Yazdirma {
-	static  void  okuladi1(String Baslik) {
-		System.out.println("***************Java 1 Kursu******************");
-		System.out.println("********Fatih biliþim Okulu****************");
-		System.out.println("****************************");
+	static void fatihBilisimOkuluYazdir() {
+		programBasligiYazdir("Fatih BiliÅŸim Okulu");
 	}
 	
 	
 	 static  void  okuladi(String baslik) {
 		System.out.println("****************"+baslik+"*****************");
-		System.out.println("********Fatih biliþim Okulu****************");
+		System.out.println("********Fatih biliÃ¾im Okulu****************");
 		System.out.println("****************************");
 	}
 
